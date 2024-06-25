@@ -10,7 +10,7 @@ This project focuses on the classification of lung cancer using histopathology i
 - **Programming Language**: Python
 - **Libraries**: PyTorch, OpenCV, NumPy, PIL (Python Imaging Library)
 - **Models**: Custom CNN models, Pre-trained ResNet50
-- **Tools**: Jupyter Notebook, Visual Studio Code
+
 
 ## Data
 The LC25000 dataset comprises histopathology images of lung and colon tissues. For this project, only the lung tissue images were utilized. These images are suitable for building classification models to distinguish between different types of lung cancer and tissues.
